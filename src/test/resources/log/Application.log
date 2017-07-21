@@ -1,0 +1,134 @@
+17:19:23,422 DEBUG devpinoyLogger:53 - Config file loaded
+17:19:31,765 DEBUG devpinoyLogger:75 - Chrome Launched
+17:19:33,029 DEBUG devpinoyLogger:88 - Banking site launched
+17:21:19,552 DEBUG devpinoyLogger:53 - Config file loaded
+17:21:23,225 DEBUG devpinoyLogger:75 - Chrome Launched
+17:21:25,776 DEBUG devpinoyLogger:88 - BA360 site launched
+17:24:52,897 DEBUG devpinoyLogger:51 - Config file loaded
+17:24:55,848 DEBUG devpinoyLogger:73 - Chrome Launched
+17:24:58,725 DEBUG devpinoyLogger:86 - BA360 site launched
+17:25:59,167 DEBUG devpinoyLogger:51 - Config file loaded
+17:26:02,917 DEBUG devpinoyLogger:73 - Chrome Launched
+17:26:05,848 DEBUG devpinoyLogger:86 - BA360 site launched
+17:27:34,312 DEBUG devpinoyLogger:49 - Config file loaded
+17:27:37,669 DEBUG devpinoyLogger:71 - Chrome Launched
+17:27:39,564 DEBUG devpinoyLogger:84 - BA360 site launched
+17:28:26,957 DEBUG devpinoyLogger:49 - Config file loaded
+17:28:29,818 DEBUG devpinoyLogger:71 - Chrome Launched
+17:28:33,038 DEBUG devpinoyLogger:84 - BA360 site launched
+17:28:35,924 DEBUG devpinoyLogger:107 - The testing is completed
+12:43:24,075 DEBUG devpinoyLogger:51 - Config file loaded
+12:43:30,466 DEBUG devpinoyLogger:73 - Chrome Launched
+12:43:33,649 DEBUG devpinoyLogger:86 - BA360 site launched
+12:43:36,469 DEBUG devpinoyLogger:109 - The testing is completed
+16:38:01,775 DEBUG devpinoyLogger:51 - Config file loaded
+16:38:05,050 DEBUG devpinoyLogger:73 - Chrome Launched
+16:38:08,811 DEBUG devpinoyLogger:86 - BA360 site launched
+16:38:11,445 DEBUG devpinoyLogger:109 - The testing is completed
+11:36:16,187 DEBUG devpinoyLogger:55 - Config file loaded
+11:36:40,339 DEBUG devpinoyLogger:77 - Chrome Launched
+11:36:47,305 DEBUG devpinoyLogger:90 - BA360 site launched
+11:36:52,061 DEBUG devpinoyLogger:113 - The testing is completed
+11:40:28,915 DEBUG devpinoyLogger:55 - Config file loaded
+11:40:33,320 DEBUG devpinoyLogger:77 - Chrome Launched
+11:40:37,561 DEBUG devpinoyLogger:90 - BA360 site launched
+11:40:40,306 DEBUG devpinoyLogger:113 - The testing is completed
+11:42:05,409 DEBUG devpinoyLogger:55 - Config file loaded
+11:42:08,428 DEBUG devpinoyLogger:77 - Chrome Launched
+11:42:11,690 DEBUG devpinoyLogger:90 - BA360 site launched
+11:42:14,407 DEBUG devpinoyLogger:113 - The testing is completed
+11:48:22,832 DEBUG devpinoyLogger:55 - Config file loaded
+11:48:27,654 DEBUG devpinoyLogger:77 - Chrome Launched
+11:48:30,993 DEBUG devpinoyLogger:90 - BA360 site launched
+11:48:33,569 DEBUG devpinoyLogger:113 - The testing is completed
+11:53:28,066 DEBUG devpinoyLogger:56 - Config file loaded
+11:53:32,486 DEBUG devpinoyLogger:78 - Chrome Launched
+11:53:36,103 DEBUG devpinoyLogger:91 - BA360 site launched
+11:53:39,077 DEBUG devpinoyLogger:114 - The testing is completed
+11:57:22,231 DEBUG devpinoyLogger:56 - Config file loaded
+11:57:27,307 DEBUG devpinoyLogger:78 - Chrome Launched
+11:57:30,116 DEBUG devpinoyLogger:91 - BA360 site launched
+11:57:34,641 DEBUG devpinoyLogger:114 - The testing is completed
+13:40:54,800 DEBUG devpinoyLogger:56 - Config file loaded
+13:40:59,275 DEBUG devpinoyLogger:78 - Chrome Launched
+13:41:03,174 DEBUG devpinoyLogger:91 - BA360 site launched
+13:41:11,251 DEBUG devpinoyLogger:114 - The testing is completed
+14:00:06,122 DEBUG devpinoyLogger:57 - Config file loaded
+14:00:10,679 DEBUG devpinoyLogger:79 - Chrome Launched
+14:00:12,902 DEBUG devpinoyLogger:92 - BA360 site launched
+14:00:22,487 DEBUG devpinoyLogger:115 - The testing is completed
+16:35:13,708 DEBUG devpinoyLogger:57 - Config file loaded
+16:35:18,852 DEBUG devpinoyLogger:79 - Chrome Launched
+16:35:21,957 DEBUG devpinoyLogger:92 - BA360 site launched
+16:35:29,950 DEBUG devpinoyLogger:115 - The testing is completed
+16:36:06,142 DEBUG devpinoyLogger:57 - Config file loaded
+16:36:09,611 DEBUG devpinoyLogger:79 - Chrome Launched
+16:36:12,455 DEBUG devpinoyLogger:92 - BA360 site launched
+16:36:40,300 DEBUG devpinoyLogger:115 - The testing is completed
+16:38:47,526 DEBUG devpinoyLogger:57 - Config file loaded
+16:38:51,808 DEBUG devpinoyLogger:79 - Chrome Launched
+16:38:53,683 DEBUG devpinoyLogger:92 - BA360 site launched
+16:39:21,474 DEBUG devpinoyLogger:115 - The testing is completed
+16:41:35,367 DEBUG devpinoyLogger:57 - Config file loaded
+16:41:38,869 DEBUG devpinoyLogger:79 - Chrome Launched
+16:41:40,844 DEBUG devpinoyLogger:92 - BA360 site launched
+16:43:10,257 DEBUG devpinoyLogger:57 - Config file loaded
+16:43:12,888 DEBUG devpinoyLogger:79 - Chrome Launched
+16:43:15,044 DEBUG devpinoyLogger:92 - BA360 site launched
+16:43:42,524 DEBUG devpinoyLogger:115 - The testing is completed
+16:50:37,166 DEBUG devpinoyLogger:57 - Config file loaded
+16:50:41,058 DEBUG devpinoyLogger:79 - Chrome Launched
+16:50:43,998 DEBUG devpinoyLogger:92 - BA360 site launched
+16:51:12,038 DEBUG devpinoyLogger:115 - The testing is completed
+16:52:55,337 DEBUG devpinoyLogger:57 - Config file loaded
+16:52:59,853 DEBUG devpinoyLogger:79 - Chrome Launched
+16:53:01,967 DEBUG devpinoyLogger:92 - BA360 site launched
+16:53:18,324 DEBUG devpinoyLogger:115 - The testing is completed
+16:55:32,169 DEBUG devpinoyLogger:57 - Config file loaded
+16:55:35,444 DEBUG devpinoyLogger:79 - Chrome Launched
+16:55:37,421 DEBUG devpinoyLogger:92 - BA360 site launched
+16:56:06,402 DEBUG devpinoyLogger:115 - The testing is completed
+16:59:38,464 DEBUG devpinoyLogger:57 - Config file loaded
+16:59:41,238 DEBUG devpinoyLogger:79 - Chrome Launched
+16:59:42,571 DEBUG devpinoyLogger:92 - BA360 site launched
+17:00:11,466 DEBUG devpinoyLogger:115 - The testing is completed
+21:29:57,620 DEBUG devpinoyLogger:57 - Config file loaded
+21:30:00,311 DEBUG devpinoyLogger:79 - Chrome Launched
+21:30:02,605 DEBUG devpinoyLogger:92 - BA360 site launched
+21:30:32,340 DEBUG devpinoyLogger:115 - The testing is completed
+13:19:39,030 DEBUG devpinoyLogger:57 - Config file loaded
+13:19:43,023 DEBUG devpinoyLogger:79 - Chrome Launched
+13:19:44,164 DEBUG devpinoyLogger:92 - BA360 site launched
+13:20:14,283 DEBUG devpinoyLogger:115 - The testing is completed
+13:30:39,899 DEBUG devpinoyLogger:57 - Config file loaded
+13:30:42,894 DEBUG devpinoyLogger:79 - Chrome Launched
+13:30:44,405 DEBUG devpinoyLogger:92 - BA360 site launched
+13:31:04,806 DEBUG devpinoyLogger:115 - The testing is completed
+13:38:49,884 DEBUG devpinoyLogger:57 - Config file loaded
+13:38:53,325 DEBUG devpinoyLogger:79 - Chrome Launched
+13:38:55,203 DEBUG devpinoyLogger:92 - BA360 site launched
+13:39:24,841 DEBUG devpinoyLogger:115 - The testing is completed
+13:39:59,029 DEBUG devpinoyLogger:57 - Config file loaded
+13:40:01,618 DEBUG devpinoyLogger:79 - Chrome Launched
+13:40:03,545 DEBUG devpinoyLogger:92 - BA360 site launched
+13:40:33,768 DEBUG devpinoyLogger:115 - The testing is completed
+13:42:40,220 DEBUG devpinoyLogger:57 - Config file loaded
+13:42:43,023 DEBUG devpinoyLogger:79 - Chrome Launched
+13:42:44,894 DEBUG devpinoyLogger:92 - BA360 site launched
+13:43:09,280 DEBUG devpinoyLogger:115 - The testing is completed
+14:17:32,268 DEBUG devpinoyLogger:57 - Config file loaded
+14:17:35,171 DEBUG devpinoyLogger:79 - Chrome Launched
+14:17:37,495 DEBUG devpinoyLogger:92 - BA360 site launched
+14:18:09,330 DEBUG devpinoyLogger:115 - The testing is completed
+14:21:23,865 DEBUG devpinoyLogger:57 - Config file loaded
+14:21:26,834 DEBUG devpinoyLogger:79 - Chrome Launched
+14:21:28,357 DEBUG devpinoyLogger:92 - BA360 site launched
+14:21:58,355 DEBUG devpinoyLogger:115 - The testing is completed
+14:37:14,672 DEBUG devpinoyLogger:57 - Config file loaded
+14:37:17,552 DEBUG devpinoyLogger:79 - Chrome Launched
+14:37:19,172 DEBUG devpinoyLogger:92 - BA360 site launched
+14:37:49,466 DEBUG devpinoyLogger:115 - The testing is completed
+14:51:58,686 DEBUG devpinoyLogger:57 - Config file loaded
+14:52:01,472 DEBUG devpinoyLogger:79 - Chrome Launched
+14:52:03,331 DEBUG devpinoyLogger:92 - BA360 site launched
+14:52:29,311 DEBUG devpinoyLogger:115 - The testing is completed
